@@ -2,6 +2,7 @@
 
 A weather application to get information about the weather forecast for a specific location.
 
+Demo https://sky-cast-five.vercel.app/
 ## Description
 
 Sky Cast is a web application that provides weather forecast data for a given city. It uses the OpenWeatherMap API to fetch weather information such as temperature, weather conditions, and wind speed. The application allows users to search for a city and view the current weather as well as the forecast for the next few days.

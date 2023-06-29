@@ -29,7 +29,7 @@ const getLocationCoordinates = async (address, setCityName) => {
 
 const Main = () => {
     const inputValue = useRef();
-    const [cityName, setCityName] = useState("noida");
+    const [cityName, setCityName] = useState("Delhi");
     const [error, setError] = useState(true)
     const [lang, setLang] = useState(true)
     const [myData, setMyData] = useState([])
